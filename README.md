@@ -16,3 +16,6 @@ The Mechanic Shop Management System is a full-stack web application designed to 
 
 # Contributors
 Tom Vang
+Gerald Stillman
+Paul 
+Cory Hass
